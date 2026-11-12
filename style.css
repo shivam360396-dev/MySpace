@@ -114,7 +114,7 @@ h3 {
     background-color: #1b5276;
 }
 
-/* Simple Hero Illustration */
+/*  Hero parts Illustration */
 .hero-art {
     height: 280px;
     width: 42%;
@@ -187,7 +187,7 @@ h3 {
     font-size: 28px;
 }
 
-/* Quote */
+/* Quoteess */
 .quote {
     background-color: #e4edf3;
     padding: 25px;
@@ -385,6 +385,19 @@ tfoot {
     background-color: #f1f1f1;
     font-weight: bold;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Mobile Responsive */
 @media (max-width: 760px) {
